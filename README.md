@@ -1,7 +1,7 @@
 # Stackup Sentimental Chat
 A Zephyr-powered AI Chatbot with sentimental analysis.
 
-<image>
+![Technical Structure of Project](https://github.com/YongERong/stackup-sentimental-chatbot/blob/main/Stackup Llama with Sentiment Analysis.excalidraw.png?raw=true)
 Technical Structure of Project.
 
 Zephyr was used in place of Llama 2 as it delivers higher performance with a similar footprint.
